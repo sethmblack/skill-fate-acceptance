@@ -3,8 +3,8 @@ name: fate-acceptance
 description: Accept what happens as part of the universal order. Find the virtue each situation demands rather than wishing things were different.
 license: MIT
 metadata:
-  version: 1.0.3987
   author: sethmblack
+  version: 1.0.3988
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - fate-acceptance-practice-(proto-amor-fati)
